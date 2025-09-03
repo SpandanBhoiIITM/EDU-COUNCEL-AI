@@ -17,7 +17,7 @@ Installation
 
 Clone the repository:
 
-bashgit clone https://github.com/SpandanBhoiITM/EDU-COUNSEL-AI.git
+bashgit clone the repo
 cd EDU-COUNSEL-AI
 
 Install dependencies:
