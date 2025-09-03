@@ -253,6 +253,6 @@ Educational institutions for guidance on academic streams
 
 📞 Contact
 SpandanBhoiITM - GitHub Profile
-Project Link: https://github.com/SpandanBhoiITM/EDU-COUNSEL-AI
+Project Link: https://github.com/SpandanBhoiIITM/
 
 ⭐ Star this repository if it helps students make better academic choices! ⭐
